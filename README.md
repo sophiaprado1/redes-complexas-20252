@@ -13,4 +13,4 @@ Repositório da disciplina de Redes Complexas, no período de 2025.2, ministrada
 -   **Descrição**: Para o Seminário 1, uma implementação visual do algoritmo de Girvan-Newman.
 -   **[Código](/busca_largura/busca_largura.py)**
 -   **[Relatório](/busca_largura/relatorio.pdf)**
--   **[Apresentação](/busca_largura/apresentacao.pdf)**
+-   **[Apresentação](https://www.figma.com/slides/4bSEhHyqogqDzkAJUz0488/Girvan-Newman?node-id=1-337&t=GczRYE4zjmzXlGs2-1)**
